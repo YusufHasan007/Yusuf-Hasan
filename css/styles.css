@@ -1,0 +1,65 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.topbox{
+  background-color: #baf1a1;
+  padding-top: 100px;
+}
+
+ h1{
+  font-size: 80px;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+.middlebox{
+background-color: #dcedc1;
+}
+.bottombox{
+  background-color: #baf1a1;
+}
+.big{
+  font-size: 30px;
+  text-decoration: underline;
+  color: #481380;
+}
+.cloud2{
+  position: absolute;
+}
+.cloud1{
+  position: relative;
+  top: 10px;
+  left: 250px;
+}
+.yusuf{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.burj{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.giphy-embed{
+  width: 200px;
+  height: 200px;
+}
+.got{
+  width: 200px;
+  height: 200px;
+}
+hr{
+    border: 0;
+    height: 0; /* Firefox... */
+    box-shadow: 0 0 10px 1px black
+  }
